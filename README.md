@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premanshchakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="premanshchakraborty" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premanshchakraborty" alt="premanshchakraborty" /></a> </p>
-
 - 🌱 I’m currently learning and exploring advanced concepts in software architecture and system design. **LLMs,Postgresql,Redis**
 
 - 💬 Ask me about **Flutter, Node.js, Express, MongoDB, and Android Development.**
@@ -25,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=premanshchakraborty&show_icons=true&locale=en&layout=compact" alt="premanshchakraborty" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=premanshchakraborty&show_icons=true&locale=en" alt="premanshchakraborty" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=premanshchakraborty&" alt="premanshchakraborty" /></p>
