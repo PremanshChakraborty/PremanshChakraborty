@@ -48,9 +48,9 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [**PlanIt**](https://github.com/PremanshChakraborty) | Flutter · Node.js · AWS | Collaborative travel planner with live route optimization |
-| [**Agentic AI Sales Companion**](https://github.com/PremanshChakraborty) | LangGraph · Bedrock · React | Stateful RAG shopping agent with ReAct tool-calling |
-| [**Student-Cred**](https://github.com/PremanshChakraborty) | Solidity · Polygon · React | Decentralized credential platform minting NFT certificates |
+| [**PlanIt**](https://github.com/PremanshChakraborty/planit) | Flutter · Node.js · AWS | Collaborative travel planner with live route optimization |
+| [**Agentic AI Sales Companion**](https://github.com/PremanshChakraborty/Retail-AI) | LangGraph · Bedrock · React | Stateful RAG shopping agent with ReAct tool-calling |
+| [**Student-Cred**](https://github.com/Priyadas732/Nits-hack) | Solidity · Polygon · React | Decentralized credential platform minting NFT certificates |
 
 ---
 
@@ -58,4 +58,3 @@
 
 🥈 2nd Place — Blockchain & Data Privacy track, NITS Hacks 2025  
 📱 Built Tecnoesis fest app — 1K+ downloads  
-🏐 Represented NIT Silchar at All India Inter-NIT Volleyball Tournament 2025
