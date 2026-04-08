@@ -1,8 +1,6 @@
 # Premansh Chakraborty
 
-I'm a CS undergrad at NIT Silchar who enjoys building things that sit at the intersection of [what excites you most — e.g. distributed systems and real-world usability]. My work spans mobile apps, agentic AI, and Web3 — not because I chase trends, but because I like understanding systems from the ground up.
-Outside of code, I [something personal — music, sport, reading, etc.]. I believe [one genuine opinion you hold about software/tech/the industry].
-Currently sharpening my skills before joining Goldman Sachs as an SWE Intern in May — always open to interesting conversations, collaborations, or just a good problem to think through.
+I'm a CS undergrad at NIT Silchar who enjoys building things that sit at the intersection of real-world usability and technical perfection. My work spans mobile apps, agentic AI, and Web3 — not because I chase trends, but because I like understanding systems from the ground up. Each domain that I have touched has taught me a valuable skill-set that has improved my overall software aptitute, which is what i primarily aim for while building. Maximizing my learning speed is the ultimate motivation that keeps me going. I am currently sharpening my skills before joining Goldman Sachs as an SWE Intern in May — always open to interesting conversations, collaborations, or just a good problem to think through.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/premansh-chakraborty-99b100281)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Premansh_Chakraborty)
@@ -52,7 +50,7 @@ Currently sharpening my skills before joining Goldman Sachs as an SWE Intern in 
 | Project | Stack | Highlights |
 |---|---|---|
 | [**PlanIt**](https://github.com/PremanshChakraborty/planit) | Flutter · Node.js · AWS | Collaborative travel planner with live route optimization |
-| [**Agentic AI Sales Companion**](https://github.com/PremanshChakraborty/Retail-AI) | LangGraph · Bedrock · React | Stateful RAG shopping agent with ReAct tool-calling |
+| [**Agentic AI Sales Companion**](https://github.com/PremanshChakraborty/Retail-AI) | LangGraph · TypeScript · React | Stateful RAG shopping agent with ReAct tool-calling |
 | [**Student-Cred**](https://github.com/Priyadas732/Nits-hack) | Solidity · Polygon · React | Decentralized credential platform minting NFT certificates |
 
 ---
