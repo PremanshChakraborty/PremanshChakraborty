@@ -1,6 +1,8 @@
 # Premansh Chakraborty
 
-**CS undergrad @ NIT Silchar** · Building things with code, occasionally breaking them too.
+I'm a CS undergrad at NIT Silchar who enjoys building things that sit at the intersection of [what excites you most — e.g. distributed systems and real-world usability]. My work spans mobile apps, agentic AI, and Web3 — not because I chase trends, but because I like understanding systems from the ground up.
+Outside of code, I [something personal — music, sport, reading, etc.]. I believe [one genuine opinion you hold about software/tech/the industry].
+Currently sharpening my skills before joining Goldman Sachs as an SWE Intern in May — always open to interesting conversations, collaborations, or just a good problem to think through.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/premansh-chakraborty-99b100281)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Premansh_Chakraborty)
@@ -39,7 +41,8 @@
 ## Currently
 
 - 📚 B.Tech CSE @ NIT Silchar — CGPA 9.09
-- 🛠️ Flutter Developer Intern @ Kartavya Technology
+- 💼 Incoming SWE Intern @ Goldman Sachs · Starting May 2025
+- 🛠️ EX-Flutter Developer Intern @ Kartavya Technology
 - 👥 Technical Team Head — E-Cell NIT Silchar
 
 ---
