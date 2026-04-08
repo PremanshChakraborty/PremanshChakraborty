@@ -1,59 +1,61 @@
-<h1 align="center">Hi 👋, I'm Premansh Chakraborty</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+# Premansh Chakraborty
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=premanshchakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="premanshchakraborty" /> </p>
+**CS undergrad @ NIT Silchar** · Building things with code, occasionally breaking them too.
 
-- 🌱 I’m currently learning and exploring advanced concepts in software architecture and system design. **LLMs,Postgresql,Redis**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/premansh-chakraborty-99b100281)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Premansh_Chakraborty)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:premansh_ug23@cse.nits.ac.in)
 
-- 💬 Ask me about **Flutter, Node.js, Express, MongoDB, and Android Development.**
+---
 
-- 📫 How to reach me **preetimanojch@gmail.com**
+## Skills
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1quml-hG_sLymIgS_6GdIfwGzrLiloQYn/view?usp=sharing](https://drive.google.com/file/d/1quml-hG_sLymIgS_6GdIfwGzrLiloQYn/view?usp=sharing)
+**Languages**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/premansh-chakraborty-99b100281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="premansh-chakraborty-99b100281" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/premansh_chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="premansh_chakraborty" height="30" width="40" /></a>
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <h3>Languages</h3>
-  <p>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  </p>
-  <hr/>
-  <h3>Mobile, Frontend & Backend</h3>
-  <p>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  </p>
-  <hr/>
-  <h3>Databases</h3>
-  <p>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  </p>
-  <hr/>
-  <h3>Tools, Testing & DevOps</h3>
-  <p>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  </p>
-</div>
+**Frameworks & Tools**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=premanshchakraborty&show_icons=true&locale=en&layout=compact" alt="premanshchakraborty" /></p>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=premanshchakraborty&show_icons=true&locale=en" alt="premanshchakraborty" /></p>
+**Domains**
+
+`Agentic AI` &nbsp;`Mobile Development` &nbsp;`Full-Stack Web` &nbsp;`Blockchain / Web3` &nbsp;`Cloud & DevOps`
+
+---
+
+## Currently
+
+- 📚 B.Tech CSE @ NIT Silchar — CGPA 9.09
+- 🛠️ Flutter Developer Intern @ Kartavya Technology
+- 👥 Technical Team Head — E-Cell NIT Silchar
+
+---
+
+## Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| [**PlanIt**](https://github.com/PremanshChakraborty) | Flutter · Node.js · AWS | Collaborative travel planner with live route optimization |
+| [**Agentic AI Sales Companion**](https://github.com/PremanshChakraborty) | LangGraph · Bedrock · React | Stateful RAG shopping agent with ReAct tool-calling |
+| [**Student-Cred**](https://github.com/PremanshChakraborty) | Solidity · Polygon · React | Decentralized credential platform minting NFT certificates |
+
+---
+
+## Highlights
+
+🥈 2nd Place — Blockchain & Data Privacy track, NITS Hacks 2025  
+📱 Built Tecnoesis fest app — 1K+ downloads  
+🏐 Represented NIT Silchar at All India Inter-NIT Volleyball Tournament 2025
